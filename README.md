@@ -1,7 +1,3 @@
-<div align="center">
-  <img src="<img width="300" height="168" alt="507ca6b9-45c3-43b5-a796-a02474846cea" src="https://github.com/user-attachments/assets/e9fea884-1b75-454e-98d1-51915d2394e2" />
-" alt="matrix background" style="width:100%;">
-</div>
 
 <h1 align="center">Hi 👋, I'm Eymen Yiğit Baki</h1>
 <h3 align="center">A Technology Enthusiast From Turkey</h3>
