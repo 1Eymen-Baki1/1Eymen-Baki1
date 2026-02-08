@@ -1,4 +1,7 @@
-https://www.google.com/imgres?q=matrix&imgurl=https%3A%2F%2Fwww.techmonitor.ai%2Fwp-content%2Fuploads%2Fsites%2F29%2F2016%2F08%2Fshutterstock_740523562-ai.webp&imgrefurl=https%3A%2F%2Fwww.techmonitor.ai%2Fwhat-is%2Fwhat-is-a-matrix%2F&docid=sOFqfrKFPI5VlM&tbnid=MqPOIHvg5jFgUM&vet=12ahUKEwju68aR7cqSAxVLA9sEHRRjKbgQnPAOegQIfBAB..i&w=720&h=405&hcb=2&ved=2ahUKEwju68aR7cqSAxVLA9sEHRRjKbgQnPAOegQIfBAB
+<div align="center">
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyHSCBpYHHn8TG-urtpZ1NPdUDV10VpzE11A&s" alt="matrix background" style="width:100%;">
+</div>
+
 <h1 align="center">Hi 👋, I'm Eymen Yiğit Baki</h1>
 <h3 align="center">A Technology Enthusiast From Turkey</h3>
 
