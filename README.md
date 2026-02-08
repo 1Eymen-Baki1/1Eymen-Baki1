@@ -2,13 +2,13 @@
 <h1 align="center">Hi 👋, I'm Eymen Yiğit Baki</h1>
 <h3 align="center">A Technology Enthusiast From Turkey</h3>
 
-- 🔭 I’m currently working on **Python,Arduino**
+- 🔭 I’m currently working on **Python,Kali Terminal**
 
-- 🌱 I’m currently learning **I'm Taking Arduino And Web Design Course**
+- 🌱 I’m currently learning **Cyber Securtiy**
 
 - 🤝 I’m looking for help with **Arduino Projects**
 
-- 💬 Ask me about **You Can Ask Me About The Basics Of Python**
+- 💬 Ask me about **You Can Ask Me About The Basics Of Python And Basics Of Cyber Security**
 
 - 📫 How to reach me **eymenbaki831@gmail.com**
 
