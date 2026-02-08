@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **Python,Kali Terminal**
 
-- 🌱 I’m currently learning **Cyber Securtiy**
+- 🌱 I’m currently learning **Cyber Security**
 
 - 🤝 I’m looking for help with **Arduino Projects**
 
